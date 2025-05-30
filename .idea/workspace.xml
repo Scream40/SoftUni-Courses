@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ddf4c66-faa4-4d31-a9b1-8349b3cc479c" name="Changes" comment="rename">
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Basic_Syntax/EXTRA/01_LargesNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Basic_Syntax/EXTRA/02_FindTheCapitals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Basic_Syntax/EXTRA/03_WolfInSheep'sClothing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Basic_Syntax/EXTRA/___04_SumOfABeach.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Data_Types_and_Variables/EXTRA/01_ExchangeIntegers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Data_Types_and_Variables/EXTRA/02_PrimeNumberChecker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Data_Types_and_Variables/EXTRA/03_DecryptingMessages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Data_Types_and_Variables/EXTRA/04_BalancedBrackets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="1ddf4c66-faa4-4d31-a9b1-8349b3cc479c" name="Changes" comment="exersises">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,23 +45,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.01.executor": "Run",
-    "Python.01_ExchangeIntegers.executor": "Run",
-    "Python.01_FindTheLargestNumber.executor": "Run",
-    "Python.01_LargesNumber.executor": "Run",
-    "Python.02_FindTheCapitals.executor": "Run",
-    "Python.02_PrimeNumberChecker.executor": "Run",
-    "Python.03_DecryptingMessages.executor": "Run",
-    "Python.03_WolfInSheep'sClothing.executor": "Run",
-    "Python.04_BalancedBrackets.executor": "Run",
-    "Python.04_SumOfABeach.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_ExchangeIntegers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_FindTheLargestNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_LargesNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_FindTheCapitals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_PrimeNumberChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_DecryptingMessages.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_WolfInSheep'sClothing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_BalancedBrackets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_SumOfABeach.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.04_BalancedBrackets">
     <configuration name="01_ExchangeIntegers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
@@ -217,12 +207,21 @@
       <option name="project" value="LOCAL" />
       <updated>1748403670661</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="exersises">
+      <option name="closed" value="true" />
+      <created>1748585327143</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748585327143</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="rename" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename" />
+    <MESSAGE value="exersises" />
+    <option name="LAST_COMMIT_MESSAGE" value="exersises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
