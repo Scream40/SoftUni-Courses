@@ -5,7 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ddf4c66-faa4-4d31-a9b1-8349b3cc479c" name="Changes" comment="exersises">
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB/01_AbsoluteValues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB/02_Grades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB/03_Calculations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB/04_RepeatString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB/05_Orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB/06_CalculateRectangleArea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB/07_Rounding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/01_ZerosToBack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/02_Messaging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/03_CarRace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/04_JosephusPermutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/05_AI_TicTacToe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/05_TicTacToe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/06_ListManipulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/02_MultiplesList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/03_FootballCards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/04_NumberBeggars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/05_FaroShuffle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/06_SurvivalOfTheBiggest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/07_EasterGifts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/08_SeizeTheFire.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/09_HelloFrance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/10_BreadFactory.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,25 +70,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_ExchangeIntegers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_FindTheLargestNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_LargesNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_FindTheCapitals.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_PrimeNumberChecker.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_DecryptingMessages.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_WolfInSheep'sClothing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_BalancedBrackets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_SumOfABeach.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.01.executor": "Run",
+    "Python.01_AbsoluteValues.executor": "Run",
+    "Python.01_ExchangeIntegers.executor": "Run",
+    "Python.01_FindTheLargestNumber.executor": "Run",
+    "Python.01_LargesNumber.executor": "Run",
+    "Python.02_FindTheCapitals.executor": "Run",
+    "Python.02_Grades.executor": "Run",
+    "Python.02_Messaging.executor": "Debug",
+    "Python.02_MultiplesList.executor": "Run",
+    "Python.02_PrimeNumberChecker.executor": "Run",
+    "Python.03_Calculations.executor": "Run",
+    "Python.03_CarRace.executor": "Run",
+    "Python.03_DecryptingMessages.executor": "Run",
+    "Python.03_FootballCards.executor": "Run",
+    "Python.03_WolfInSheep'sClothing.executor": "Run",
+    "Python.04_BalancedBrackets.executor": "Run",
+    "Python.04_JosephusPermutation.executor": "Run",
+    "Python.04_NumberBeggars.executor": "Run",
+    "Python.04_RepeatString.executor": "Run",
+    "Python.04_SumOfABeach.executor": "Debug",
+    "Python.05_AI_TicTacToe.executor": "Debug",
+    "Python.05_FaroShuffle.executor": "Run",
+    "Python.05_Orders.executor": "Run",
+    "Python.05_TicTacToe.executor": "Run",
+    "Python.06_CalculateRectangleArea.executor": "Run",
+    "Python.06_ListManipulator.executor": "Run",
+    "Python.06_SurvivalOfTheBiggest.executor": "Run",
+    "Python.07_EasterGifts.executor": "Run",
+    "Python.08_SeizeTheFire.executor": "Run",
+    "Python.09_HelloFrance.executor": "Run",
+    "Python.10_BreadFactory.executor": "Run",
+    "Python.parse.executor": "Debug",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "Errors"
   }
-}</component>
-  <component name="RunManager" selected="Python.04_BalancedBrackets">
-    <configuration name="01_ExchangeIntegers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\goaaa\Documents\GitHub\SoftUni-Courses\Fundamentals-Python\Lists_Basics\EXTRA" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.07_Rounding">
+    <configuration name="03_Calculations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentals-Python/Data_Types_and_Variables/EXTRA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals-Python/Data_Types_and_Variables/EXTRA/01_ExchangeIntegers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB/03_Calculations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_PrimeNumberChecker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_RepeatString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,11 +148,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentals-Python/Data_Types_and_Variables/EXTRA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals-Python/Data_Types_and_Variables/EXTRA/02_PrimeNumberChecker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB/04_RepeatString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_DecryptingMessages" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_Orders" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,11 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentals-Python/Data_Types_and_Variables/EXTRA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals-Python/Data_Types_and_Variables/EXTRA/03_DecryptingMessages.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB/05_Orders.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_BalancedBrackets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_CalculateRectangleArea" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,11 +192,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentals-Python/Data_Types_and_Variables/EXTRA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals-Python/Data_Types_and_Variables/EXTRA/04_BalancedBrackets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB/06_CalculateRectangleArea.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +205,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="___04_SumOfABeach" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_Rounding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,11 +214,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentals-Python/Basic_Syntax/EXTRA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\goaaa\Documents\GitHub\SoftUni-Courses\Fundamentals-Python\Basic_Syntax\EXTRA\___04_SumOfABeach.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB/07_Rounding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.04_BalancedBrackets" />
-        <item itemvalue="Python.03_DecryptingMessages" />
-        <item itemvalue="Python.02_PrimeNumberChecker" />
-        <item itemvalue="Python.01_ExchangeIntegers" />
-        <item itemvalue="Python.___04_SumOfABeach" />
+        <item itemvalue="Python.07_Rounding" />
+        <item itemvalue="Python.06_CalculateRectangleArea" />
+        <item itemvalue="Python.05_Orders" />
+        <item itemvalue="Python.04_RepeatString" />
+        <item itemvalue="Python.03_Calculations" />
       </list>
     </recent_temporary>
   </component>
@@ -245,6 +299,61 @@
           <url>file://$PROJECT_DIR$/Fundamentals-Python/Data_Types_and_Variables/EXTRA/04_BalancedBrackets.py</url>
           <line>6</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/04_NumberBeggars.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/05_FaroShuffle.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/10_BreadFactory.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/07_EasterGifts.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/01_ZerosToBack.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/02_Messaging.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/03_CarRace.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/04_JosephusPermutation.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/05_AI_TicTacToe.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/06_ListManipulator.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/06_ListManipulator.py</url>
+          <line>150</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
