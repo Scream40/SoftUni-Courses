@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ddf4c66-faa4-4d31-a9b1-8349b3cc479c" name="Changes" comment="exersises">
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB/01_AbsoluteValues.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB/02_Grades.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB/03_Calculations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB/04_RepeatString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB/05_Orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB/06_CalculateRectangleArea.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Functions/LAB/07_Rounding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/01_ZerosToBack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/02_Messaging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/03_CarRace.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/04_JosephusPermutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/05_AI_TicTacToe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/05_TicTacToe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/06_ListManipulator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/EXTRA/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/02_MultiplesList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/03_FootballCards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/04_NumberBeggars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/05_FaroShuffle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/06_SurvivalOfTheBiggest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/07_EasterGifts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/08_SeizeTheFire.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/09_HelloFrance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/10_BreadFactory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals-Python/Lists_Basics/Exersise/01.py" afterDir="false" />
-    </list>
+    <list default="true" id="1ddf4c66-faa4-4d31-a9b1-8349b3cc479c" name="Changes" comment="exersises" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,6 +73,7 @@
     "Python.06_ListManipulator.executor": "Run",
     "Python.06_SurvivalOfTheBiggest.executor": "Run",
     "Python.07_EasterGifts.executor": "Run",
+    "Python.07_Rounding.executor": "Run",
     "Python.08_SeizeTheFire.executor": "Run",
     "Python.09_HelloFrance.executor": "Run",
     "Python.10_BreadFactory.executor": "Run",
@@ -269,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748585327143</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="exersises">
+      <option name="closed" value="true" />
+      <created>1749273256641</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749273256641</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
